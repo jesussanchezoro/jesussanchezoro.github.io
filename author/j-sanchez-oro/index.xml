@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Sánchez-Oro | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/j-sanchez-oro/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/j-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Sánchez-Oro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 15:47:21 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>J Sánchez-Oro</title>
+      <link>https://jesussanchezoro.github.io/author/j-sanchez-oro/</link>
+    </image>
+    
+    <item>
+      <title>An Alternative ILP Model and Algorithmic Ideas for the Maximum Edge</title>
+      <link>https://jesussanchezoro.github.io/publication/blumalternative/</link>
+      <pubDate>Sun, 30 Aug 2020 15:47:21 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/blumalternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter Search aplicado aplicada al problema de la minimización del profile de matrices y grafos</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezscatter/</link>
+      <pubDate>Sun, 30 Aug 2020 15:47:19 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezscatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust total energy demand estimation with a hybrid Variable Neighborhood Search--Extreme Learning Machine algorithm</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2016-robust/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2016-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cálculo de separadores de grafos utilizando búsqueda de vecindad variable reducida</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-calculo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-calculo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

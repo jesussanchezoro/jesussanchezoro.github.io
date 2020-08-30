@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan David Quintana | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/juan-david-quintana/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/juan-david-quintana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan David Quintana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Juan David Quintana</title>
+      <link>https://jesussanchezoro.github.io/author/juan-david-quintana/</link>
+    </image>
+    
+    <item>
+      <title>Encontrando grafos bipartitos completos mediante Busqueda de Vecindad Variable</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-encontrando/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-encontrando/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding balanced bicliques in bipartite graphs using variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-finding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient greedy randomized adaptive search procedure for the generalized regenerator location problem</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2016-efficient/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2016-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

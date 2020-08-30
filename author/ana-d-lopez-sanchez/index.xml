@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana D López-Sánchez | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/ana-d-lopez-sanchez/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/ana-d-lopez-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana D López-Sánchez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Ana D López-Sánchez</title>
+      <link>https://jesussanchezoro.github.io/author/ana-d-lopez-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>A general variable neighborhood search for solving the multi-objective open vehicle routing problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2020-general/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2020-general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preface to the special issue on optimization in vehicle routing and logistics</title>
+      <link>https://jesussanchezoro.github.io/publication/lopez-2020-preface/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lopez-2020-preface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Locate Disperse Obnoxious Facility Centers?</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2018-locate/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2018-locate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

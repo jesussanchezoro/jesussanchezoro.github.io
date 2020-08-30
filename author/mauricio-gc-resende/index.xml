@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mauricio GC Resende | Jesús Sánchez-Oro</title>
+    <title>MAURICIO GC Resende | Jesús Sánchez-Oro</title>
     <link>https://jesussanchezoro.github.io/author/mauricio-gc-resende/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/mauricio-gc-resende/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mauricio GC Resende</description>
+    <description>MAURICIO GC Resende</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
-      <title>Mauricio GC Resende</title>
+      <title>MAURICIO GC Resende</title>
       <link>https://jesussanchezoro.github.io/author/mauricio-gc-resende/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://jesussanchezoro.github.io/publication/duarte-2015-greedy/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/duarte-2015-greedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grasp with exterior path relinking for differential dispersion minimization</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2014-grasp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-grasp/</guid>
       <description></description>
     </item>
     

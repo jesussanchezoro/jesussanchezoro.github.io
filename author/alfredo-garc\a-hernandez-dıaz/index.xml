@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alfredo Garc\á Hernández-Dı́az | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/alfredo-garc%5Ca-hernandez-d%C4%B1az/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/alfredo-garc%5Ca-hernandez-d%C4%B1az/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alfredo Garc\á Hernández-Dı́az</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Alfredo Garc\á Hernández-Dı́az</title>
+      <link>https://jesussanchezoro.github.io/author/alfredo-garc%5Ca-hernandez-d%C4%B1az/</link>
+    </image>
+    
+    <item>
+      <title>GRASP and VNS for solving the p-next center problem</title>
+      <link>https://jesussanchezoro.github.io/publication/lopez-2019-grasp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lopez-2019-grasp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

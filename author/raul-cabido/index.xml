@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raúl Cabido | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/raul-cabido/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/raul-cabido/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raúl Cabido</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Raúl Cabido</title>
+      <link>https://jesussanchezoro.github.io/author/raul-cabido/</link>
+    </image>
+    
+    <item>
+      <title>Radar-based road-traffic monitoring in urban environments</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-radar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-radar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban traffic surveillance in smart cities using radar images</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-urban/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-urban/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

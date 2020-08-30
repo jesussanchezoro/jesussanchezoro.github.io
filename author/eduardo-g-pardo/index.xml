@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo G Pardo | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/eduardo-g-pardo/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/eduardo-g-pardo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo G Pardo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Eduardo G Pardo</title>
+      <link>https://jesussanchezoro.github.io/author/eduardo-g-pardo/</link>
+    </image>
+    
+    <item>
+      <title>Parallel variable neighborhood search for the min--max order batching problem</title>
+      <link>https://jesussanchezoro.github.io/publication/menendez-2017-parallel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/menendez-2017-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel strategic oscillation: an application to the maximum leaf spanning tree problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2016-parallel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2016-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel variable neighbourhood search strategies for the cutwidth minimization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2016-parallel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2016-parallel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

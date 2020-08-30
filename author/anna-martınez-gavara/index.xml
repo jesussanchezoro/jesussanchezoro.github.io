@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Martı́nez-Gavara | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/anna-mart%C4%B1nez-gavara/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/anna-mart%C4%B1nez-gavara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Martı́nez-Gavara</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Anna Martı́nez-Gavara</title>
+      <link>https://jesussanchezoro.github.io/author/anna-mart%C4%B1nez-gavara/</link>
+    </image>
+    
+    <item>
+      <title>Variable neighborhood scatter search for the incremental graph drawing problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2017-variable/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2017-variable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

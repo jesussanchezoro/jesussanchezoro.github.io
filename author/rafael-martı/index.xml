@@ -5,12 +5,36 @@
     <link>https://jesussanchezoro.github.io/author/rafael-mart%C4%B1/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/rafael-mart%C4%B1/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafael Martı́</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Rafael Martı́</title>
       <link>https://jesussanchezoro.github.io/author/rafael-mart%C4%B1/</link>
     </image>
+    
+    <item>
+      <title>Iterated greedy with variable neighborhood search for a multiobjective waste collection problem</title>
+      <link>https://jesussanchezoro.github.io/publication/delgado-2020-iterated/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/delgado-2020-iterated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabu search for the dynamic bipartite drawing problem</title>
+      <link>https://jesussanchezoro.github.io/publication/marti-2018-tabu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/marti-2018-tabu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the bandpass problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2016-scatter/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2016-scatter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization</title>
@@ -21,10 +45,50 @@
     </item>
     
     <item>
+      <title>Mejorando la eficiencia de sistemas embebidos utilizando estrategias paralelas de búsqueda de vecindad variable</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-mejorando/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-mejorando/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the profile minimization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-scatter/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-scatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving dynamic memory allocation problems in embedded systems with parallel variable neighborhood search strategies.</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-solving/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GRASP with path relinking for the orienteering problem</title>
       <link>https://jesussanchezoro.github.io/publication/campos-2014-grasp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/campos-2014-grasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization procedures for the bipartite unconstrained 0-1 quadratic programming problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2014-optimization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood search for the vertex separation problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</guid>
       <description></description>
     </item>
     

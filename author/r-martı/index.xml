@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Martı | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/r-mart%C4%B1/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/r-mart%C4%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Martı</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 15:47:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>R Martı</title>
+      <link>https://jesussanchezoro.github.io/author/r-mart%C4%B1/</link>
+    </image>
+    
+    <item>
+      <title>Scatter Search aplicado aplicada al problema de la minimización del profile de matrices y grafos</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezscatter/</link>
+      <pubDate>Sun, 30 Aug 2020 15:47:19 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezscatter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

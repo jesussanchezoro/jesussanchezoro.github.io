@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soto Montalvo | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/soto-montalvo/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/soto-montalvo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soto Montalvo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Soto Montalvo</title>
+      <link>https://jesussanchezoro.github.io/author/soto-montalvo/</link>
+    </image>
+    
+    <item>
+      <title>URJC&amp;UNED at ImageCLEF 2013 Photo Annotation Task.</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-urjc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-urjc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

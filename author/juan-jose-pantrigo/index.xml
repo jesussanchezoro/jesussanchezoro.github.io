@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan José Pantrigo | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/juan-jose-pantrigo/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/juan-jose-pantrigo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan José Pantrigo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Juan José Pantrigo</title>
+      <link>https://jesussanchezoro.github.io/author/juan-jose-pantrigo/</link>
+    </image>
+    
+    <item>
+      <title>Combining intensification and diversification strategies in VNS. An application to the Vertex Separation problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2014-combining/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2014-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar-based road-traffic monitoring in urban environments</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-radar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-radar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban traffic surveillance in smart cities using radar images</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-urban/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URJC&amp;UNED at ImageCLEF 2013 Photo Annotation Task.</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-urjc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-urjc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood search for the vertex separation problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

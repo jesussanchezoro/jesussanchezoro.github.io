@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raca Todosijevic | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/raca-todosijevic/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/raca-todosijevic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raca Todosijevic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Raca Todosijevic</title>
+      <link>https://jesussanchezoro.github.io/author/raca-todosijevic/</link>
+    </image>
+    
+    <item>
+      <title>Variable Neighborhood Descent.</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2018-variable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2018-variable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
