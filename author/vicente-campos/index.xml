@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vicente Campos | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/vicente-campos/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/vicente-campos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vicente Campos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Vicente Campos</title>
+      <link>https://jesussanchezoro.github.io/author/vicente-campos/</link>
+    </image>
+    
+    <item>
+      <title>GRASP with path relinking for the orienteering problem</title>
+      <link>https://jesussanchezoro.github.io/publication/campos-2014-grasp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/campos-2014-grasp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
