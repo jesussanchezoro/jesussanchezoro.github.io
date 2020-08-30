@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/publication/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 15:47:21 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 15:51:28 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>An Alternative ILP Model and Algorithmic Ideas for the Maximum Edge</title>
       <link>https://jesussanchezoro.github.io/publication/blumalternative/</link>
-      <pubDate>Sun, 30 Aug 2020 15:47:21 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 15:51:28 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/blumalternative/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>On the analysis of the influence of the evaluation metric in community detection using GRASP</title>
       <link>https://jesussanchezoro.github.io/publication/perezanalysis/</link>
-      <pubDate>Sun, 30 Aug 2020 15:47:21 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 15:51:28 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/perezanalysis/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Hiperheurıstica basada en minerıa de datos para la resolución de problemas de caja negra</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezhiperheuristica/</link>
-      <pubDate>Sun, 30 Aug 2020 15:47:20 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 15:51:27 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezhiperheuristica/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Scatter Search aplicado aplicada al problema de la minimización del profile de matrices y grafos</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezscatter/</link>
-      <pubDate>Sun, 30 Aug 2020 15:47:19 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 15:51:26 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezscatter/</guid>
       <description></description>
     </item>
@@ -165,10 +165,10 @@
     </item>
     
     <item>
-      <title>Variable Neighborhood Descent.</title>
-      <link>https://jesussanchezoro.github.io/publication/duarte-2018-variable/</link>
+      <title>Variable Neighborhood Descent</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/duarte-2018-variable/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2018/</guid>
       <description></description>
     </item>
     
