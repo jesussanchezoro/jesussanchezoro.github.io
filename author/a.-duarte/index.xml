@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Duarte | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-duarte/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-duarte/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Duarte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. Duarte</title>
+      <link>https://jesussanchezoro.github.io/author/a.-duarte/</link>
+    </image>
+    
+    <item>
+      <title>GRASP con Path Relinking para el problema del SumCut</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grasp with path relinking for the sumcut problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp-2/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood search for the Vertex Separation Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
