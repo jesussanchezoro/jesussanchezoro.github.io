@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/publication/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 15:51:28 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 16:07:20 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Publications</title>
@@ -13,33 +13,9 @@
     </image>
     
     <item>
-      <title>An Alternative ILP Model and Algorithmic Ideas for the Maximum Edge</title>
-      <link>https://jesussanchezoro.github.io/publication/blumalternative/</link>
-      <pubDate>Sun, 30 Aug 2020 15:51:28 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/blumalternative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the analysis of the influence of the evaluation metric in community detection using GRASP</title>
-      <link>https://jesussanchezoro.github.io/publication/perezanalysis/</link>
-      <pubDate>Sun, 30 Aug 2020 15:51:28 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/perezanalysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hiperheurıstica basada en minerıa de datos para la resolución de problemas de caja negra</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchezhiperheuristica/</link>
-      <pubDate>Sun, 30 Aug 2020 15:51:27 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchezhiperheuristica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Scatter Search aplicado aplicada al problema de la minimización del profile de matrices y grafos</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezscatter/</link>
-      <pubDate>Sun, 30 Aug 2020 15:51:26 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 16:07:20 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezscatter/</guid>
       <description></description>
     </item>
@@ -173,6 +149,14 @@
     </item>
     
     <item>
+      <title>An Alternative ILP Model and Algorithmic Ideas for the Maximum Edge-Disjoint Paths Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/blumalternative/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/blumalternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>General variable neighborhood search for computing graph separators</title>
       <link>https://jesussanchezoro.github.io/publication/sanchez-2017-general/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -297,14 +281,6 @@
       <link>https://jesussanchezoro.github.io/publication/sanchez-2014-combining/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchez-2014-combining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grasp with exterior path relinking for differential dispersion minimization</title>
-      <link>https://jesussanchezoro.github.io/publication/duarte-2014-grasp/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-grasp/</guid>
       <description></description>
     </item>
     

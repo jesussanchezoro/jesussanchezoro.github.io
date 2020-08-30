@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RAFAEL MARTÍ | Jesús Sánchez-Oro</title>
+    <title>Rafael Marti | Jesús Sánchez-Oro</title>
     <link>https://jesussanchezoro.github.io/author/rafael-marti/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/rafael-marti/index.xml" rel="self" type="application/rss+xml" />
-    <description>RAFAEL MARTÍ</description>
+    <description>Rafael Marti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
-      <title>RAFAEL MARTÍ</title>
+      <title>Rafael Marti</title>
       <link>https://jesussanchezoro.github.io/author/rafael-marti/</link>
     </image>
     
@@ -17,14 +17,6 @@
       <link>https://jesussanchezoro.github.io/publication/sanchez-2017-improving/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchez-2017-improving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grasp with exterior path relinking for differential dispersion minimization</title>
-      <link>https://jesussanchezoro.github.io/publication/duarte-2014-grasp/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-grasp/</guid>
       <description></description>
     </item>
     
