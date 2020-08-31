@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Laguna | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/m.-laguna/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/m.-laguna/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Laguna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>M. Laguna</title>
+      <link>https://jesussanchezoro.github.io/author/m.-laguna/</link>
+    </image>
+    
+    <item>
+      <title>Scatter search for the profile minimization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization procedures for the bipartite unconstrained 0-1 quadratic programming problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/a.-duarte/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/a.-duarte/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Duarte</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>A. Duarte</title>
@@ -13,26 +13,74 @@
     </image>
     
     <item>
-      <title>GRASP con Path Relinking para el problema del SumCut</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp/</link>
+      <title>General variable neighborhood search for computing graph separators</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the profile minimization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining intensification and diversification strategies in VNS. An application to the Vertex Separation problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization procedures for the bipartite unconstrained 0-1 quadratic programming problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental comparison of Variable Neighborhood Search variants for the minimization of the vertex-cut in layout problems</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2012-d/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2012-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRASP con Path Relinking para el problema del SumCut</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2012-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grasp with path relinking for the sumcut problem</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp-2/</link>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2012-b/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchez-2012-grasp-2/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2012-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable neighborhood search for the Vertex Separation Problem</title>
-      <link>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</link>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2012/</guid>
       <description></description>
     </item>
     

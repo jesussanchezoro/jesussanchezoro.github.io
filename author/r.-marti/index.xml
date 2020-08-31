@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/r.-marti/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/r.-marti/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Martí</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>R. Martí</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the profile minimization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization procedures for the bipartite unconstrained 0-1 quadratic programming problem</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variable neighborhood search for the Vertex Separation Problem</title>
-      <link>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</link>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2012/</guid>
       <description></description>
     </item>
     

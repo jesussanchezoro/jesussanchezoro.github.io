@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/tag/combinatorial-optimization/</link>
       <atom:link href="https://jesussanchezoro.github.io/tag/combinatorial-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Combinatorial optimization&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>&#34;Combinatorial optimization&#34;</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Combining intensification and diversification strategies in VNS. An application to the Vertex Separation problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variable neighborhood search for the Vertex Separation Problem</title>
-      <link>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</link>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/duarte-2012-variable/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2012/</guid>
       <description></description>
     </item>
     
