@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Herrán | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-herran/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-herran/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Herrán</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 17:42:46 +0200</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. Herrán</title>
+      <link>https://jesussanchezoro.github.io/author/a.-herran/</link>
+    </image>
+    
+    <item>
+      <title>Emigo</title>
+      <link>https://jesussanchezoro.github.io/project/emigo/</link>
+      <pubDate>Wed, 09 Sep 2020 17:42:46 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/emigo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

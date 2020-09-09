@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Rodríguez | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/n.-rodriguez/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/n.-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Rodríguez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 17:31:38 +0200</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>N. Rodríguez</title>
+      <link>https://jesussanchezoro.github.io/author/n.-rodriguez/</link>
+    </image>
+    
+    <item>
+      <title>DIETHA</title>
+      <link>https://jesussanchezoro.github.io/project/dietha/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
