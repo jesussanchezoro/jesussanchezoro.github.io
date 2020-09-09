@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>́ R. Mart\ | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/r.-mart%5C/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/r.-mart%5C/index.xml" rel="self" type="application/rss+xml" />
+    <description>́ R. Mart\</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>́ R. Mart\</title>
+      <link>https://jesussanchezoro.github.io/author/r.-mart%5C/</link>
+    </image>
+    
+    <item>
+      <title>Variable neighborhood descent for the incremental graph drawing</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood scatter search for the incremental graph drawing problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

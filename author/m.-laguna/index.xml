@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/m.-laguna/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/m.-laguna/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Laguna</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>M. Laguna</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Variable neighborhood descent for the incremental graph drawing</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood scatter search for the incremental graph drawing problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the bandpass problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scatter search for the profile minimization problem</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</link>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-a/</guid>
       <description></description>
     </item>
     

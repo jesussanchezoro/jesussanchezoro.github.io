@@ -5,12 +5,20 @@
     <link>https://jesussanchezoro.github.io/tag/metaheuristic/</link>
       <atom:link href="https://jesussanchezoro.github.io/tag/metaheuristic/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;metaheuristic&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>&#34;metaheuristic&#34;</title>
       <link>https://jesussanchezoro.github.io/tag/metaheuristic/</link>
     </image>
+    
+    <item>
+      <title>Finding weaknesses in networks using Greedy Randomized Adaptive Search Procedure and Path Relinking</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2020-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An experimental comparison of Variable Neighborhood Search variants for the minimization of the vertex-cut in layout problems</title>

@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/tag/variable-neighborhood-search/</link>
       <atom:link href="https://jesussanchezoro.github.io/tag/variable-neighborhood-search/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Variable neighborhood search&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>&#34;Variable neighborhood search&#34;</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Robust total energy demand estimation with a hybrid Variable Neighborhood Search – Extreme Learning Machine algorithm</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization</title>
       <link>https://jesussanchezoro.github.io/publication/duarte-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/duarte-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving dynamic memory allocation problems in embedded systems with parallel variable neighborhood search strategies</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</guid>
       <description></description>
     </item>
     

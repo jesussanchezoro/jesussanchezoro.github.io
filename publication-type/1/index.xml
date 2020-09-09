@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/publication-type/1/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>1</title>
@@ -13,10 +13,122 @@
     </image>
     
     <item>
+      <title>Detecting Weak Points in Networks Using Variable Neighborhood Search</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Locate Disperse Obnoxious Facility Centers?</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2018-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Metaheuristic Approach for the alpha-separator Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encontrando grafos bipartitos completos mediante Busqueda de Vecindad Variable</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding balanced bicliques in bipartite graphs using variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRASP with Path Relinking for 2D-Bandwidth Minimization Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/rodriguez-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/rodriguez-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Spanish Energy Demand Using Variable Neighborhood Search</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond unfeasibility: strategic oscillation for the maximum leaf spanning tree problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-d/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mejorando la eficiencia de sistemas embebidos utilizando estrategias paralelas de búsqueda de vecindad variable</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing graph separators with variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cálculo de separadores de grafos utilizando búsqueda de vecindad variable reducida</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban traffic surveillance in smart cities using radar images</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URJC&amp;UNED at ImageCLEF 2013 Photo Annotation Task.</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GRASP con Path Relinking para el problema del SumCut</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezoro-2012-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRASP for the SumCut Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2011-a/</guid>
       <description></description>
     </item>
     

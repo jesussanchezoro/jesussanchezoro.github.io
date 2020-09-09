@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Je. Sánchez-Oro | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/je.-sanchez-oro/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/je.-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Je. Sánchez-Oro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Je. Sánchez-Oro</title>
+      <link>https://jesussanchezoro.github.io/author/je.-sanchez-oro/</link>
+    </image>
+    
+    <item>
+      <title>Finding balanced bicliques in bipartite graphs using variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

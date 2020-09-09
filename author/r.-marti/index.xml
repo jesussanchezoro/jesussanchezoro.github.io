@@ -5,12 +5,28 @@
     <link>https://jesussanchezoro.github.io/author/r.-marti/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/r.-marti/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Martí</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>R. Martí</title>
       <link>https://jesussanchezoro.github.io/author/r.-marti/</link>
     </image>
+    
+    <item>
+      <title>Tabu search for the dynamic Bipartite Drawing Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/marti-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/marti-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the bandpass problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization</title>
@@ -22,9 +38,17 @@
     
     <item>
       <title>Scatter search for the profile minimization problem</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</link>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving dynamic memory allocation problems in embedded systems with parallel variable neighborhood search strategies</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</guid>
       <description></description>
     </item>
     

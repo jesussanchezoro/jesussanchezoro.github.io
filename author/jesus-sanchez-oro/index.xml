@@ -5,12 +5,44 @@
     <link>https://jesussanchezoro.github.io/author/jesus-sanchez-oro/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/jesus-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
     <description>Jesús Sánchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Jesús Sánchez-Oro</title>
       <link>https://jesussanchezoro.github.io/author/jesus-sanchez-oro/</link>
     </image>
+    
+    <item>
+      <title>Finding weaknesses in networks using Greedy Randomized Adaptive Search Procedure and Path Relinking</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Parallel Iterated Greedy for Solving the p-Center and p-Dispersion Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative ILP Model and Algorithmic Ideas for the Maximum Edge-Disjoint Paths Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/blum-2020-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/blum-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRASP for the SumCut Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2011-a/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

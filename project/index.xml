@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/project/</link>
+      <atom:link href="https://jesussanchezoro.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 18:33:44 +0200</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Projects</title>
+      <link>https://jesussanchezoro.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>MAVIR</title>
+      <link>https://jesussanchezoro.github.io/project/mavir/</link>
+      <pubDate>Mon, 31 Aug 2020 18:33:44 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/mavir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

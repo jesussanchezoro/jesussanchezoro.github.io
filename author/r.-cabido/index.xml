@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/r.-cabido/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/r.-cabido/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Cabido</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 18:33:44 +0200</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>R. Cabido</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>MAVIR</title>
+      <link>https://jesussanchezoro.github.io/project/mavir/</link>
+      <pubDate>Mon, 31 Aug 2020 18:33:44 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/mavir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radar-based road-traffic monitoring in urban environments</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezoro-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban traffic surveillance in smart cities using radar images</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-c/</guid>
       <description></description>
     </item>
     

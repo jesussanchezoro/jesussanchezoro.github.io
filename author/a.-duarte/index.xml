@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/a.-duarte/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/a.-duarte/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Duarte</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 18:33:44 +0200</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>A. Duarte</title>
@@ -13,10 +13,138 @@
     </image>
     
     <item>
+      <title>MAVIR</title>
+      <link>https://jesussanchezoro.github.io/project/mavir/</link>
+      <pubDate>Mon, 31 Aug 2020 18:33:44 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/mavir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Weak Points in Networks Using Variable Neighborhood Search</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Analysis of the Influence of the Evaluation Metric in Community Detection over Social Networks</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Metaheuristic Approach for the alpha-separator Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encontrando grafos bipartitos completos mediante Busqueda de Vecindad Variable</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding balanced bicliques in bipartite graphs using variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRASP with Path Relinking for 2D-Bandwidth Minimization Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/rodriguez-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/rodriguez-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterated Greedy algorithm for performing community detection in social networks</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabu search for the dynamic Bipartite Drawing Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/marti-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/marti-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>General variable neighborhood search for computing graph separators</title>
       <link>https://jesussanchezoro.github.io/publication/sanchez-2017-a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchez-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the performance of embedded systems with variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel variable neighborhood search for the min–max order batching problem</title>
+      <link>https://jesussanchezoro.github.io/publication/menendez-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/menendez-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood descent for the incremental graph drawing</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood scatter search for the incremental graph drawing problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Greedy Randomized Adaptive Search Procedure for the Generalized Regenerator Location Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Spanish Energy Demand Using Variable Neighborhood Search</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel strategic oscillation: an application to the maximum leaf spanning tree problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-a/</guid>
       <description></description>
     </item>
     
@@ -29,6 +157,30 @@
     </item>
     
     <item>
+      <title>Robust total energy demand estimation with a hybrid Variable Neighborhood Search – Extreme Learning Machine algorithm</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the bandpass problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond unfeasibility: strategic oscillation for the maximum leaf spanning tree problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-d/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization</title>
       <link>https://jesussanchezoro.github.io/publication/duarte-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -37,10 +189,26 @@
     </item>
     
     <item>
-      <title>Scatter search for the profile minimization problem</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</link>
+      <title>Mejorando la eficiencia de sistemas embebidos utilizando estrategias paralelas de búsqueda de vecindad variable</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-c/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-15-a/</guid>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter search for the profile minimization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving dynamic memory allocation problems in embedded systems with parallel variable neighborhood search strategies</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</guid>
       <description></description>
     </item>
     
@@ -65,6 +233,30 @@
       <link>https://jesussanchezoro.github.io/publication/duarte-2014-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/duarte-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing graph separators with variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cálculo de separadores de grafos utilizando búsqueda de vecindad variable reducida</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URJC&amp;UNED at ImageCLEF 2013 Photo Annotation Task.</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2013-b/</guid>
       <description></description>
     </item>
     

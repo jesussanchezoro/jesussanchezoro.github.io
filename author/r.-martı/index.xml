@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Martı | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/r.-mart%C4%B1/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/r.-mart%C4%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Martı</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>R. Martı</title>
+      <link>https://jesussanchezoro.github.io/author/r.-mart%C4%B1/</link>
+    </image>
+    
+    <item>
+      <title>Mejorando la eficiencia de sistemas embebidos utilizando estrategias paralelas de búsqueda de vecindad variable</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchez-2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchez-2015-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

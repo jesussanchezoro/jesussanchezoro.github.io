@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Iterated greedy&#34; | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/tag/iterated-greedy/</link>
+      <atom:link href="https://jesussanchezoro.github.io/tag/iterated-greedy/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Iterated greedy&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>&#34;Iterated greedy&#34;</title>
+      <link>https://jesussanchezoro.github.io/tag/iterated-greedy/</link>
+    </image>
+    
+    <item>
+      <title>Iterated Greedy algorithm for performing community detection in social networks</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

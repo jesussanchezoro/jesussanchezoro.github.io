@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.D. Quintana | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/j.d.-quintana/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/j.d.-quintana/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.D. Quintana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>J.D. Quintana</title>
+      <link>https://jesussanchezoro.github.io/author/j.d.-quintana/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Greedy Randomized Adaptive Search Procedure for the Generalized Regenerator Location Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/quintana-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/quintana-16-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

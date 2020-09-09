@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Colmenar | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/j.-m.-colmenar/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/j.-m.-colmenar/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. Colmenar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>J. M. Colmenar</title>
+      <link>https://jesussanchezoro.github.io/author/j.-m.-colmenar/</link>
+    </image>
+    
+    <item>
+      <title>How to Locate Disperse Obnoxious Facility Centers?</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2018-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2018-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

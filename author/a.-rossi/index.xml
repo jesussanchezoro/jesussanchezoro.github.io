@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Rossi | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-rossi/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-rossi/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Rossi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. Rossi</title>
+      <link>https://jesussanchezoro.github.io/author/a.-rossi/</link>
+    </image>
+    
+    <item>
+      <title>Improving the performance of embedded systems with variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2017-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving dynamic memory allocation problems in embedded systems with parallel variable neighborhood search strategies</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2015-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
