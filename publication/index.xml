@@ -5,12 +5,20 @@
     <link>https://jesussanchezoro.github.io/publication/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2020 11:03:52 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Publications</title>
       <link>https://jesussanchezoro.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
+      <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
+      <pubDate>Wed, 23 Sep 2020 11:03:52 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A general variable neighborhood search for solving the multi-objective open vehicle routing problem</title>
@@ -129,6 +137,14 @@
       <link>https://jesussanchezoro.github.io/publication/marti-2018-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/marti-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Neighborhood Descent</title>
+      <link>https://jesussanchezoro.github.io/publication/duarte-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/duarte-2018-a/</guid>
       <description></description>
     </item>
     
