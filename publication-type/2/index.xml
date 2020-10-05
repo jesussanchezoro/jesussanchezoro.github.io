@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/publication-type/2/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 14:18:42 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2020 10:28:22 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>2</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
       <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Fri, 02 Oct 2020 14:18:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2020 10:28:22 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
       <description></description>
     </item>
@@ -73,6 +73,14 @@
       <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALPHACAL: A new user-friendly tool for the calibration of alpha-particle sources</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandeztimon-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandeztimon-2018-a/</guid>
       <description></description>
     </item>
     
