@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/publication/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 10:22:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 14:41:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
       <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Thu, 17 Dec 2020 10:22:02 +0000</pubDate>
+      <pubDate>Thu, 17 Dec 2020 14:41:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
       <description></description>
     </item>
@@ -41,14 +41,6 @@
       <link>https://jesussanchezoro.github.io/publication/delgado-2020-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/delgado-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Computer Networks Communication with the Band Collocation Problem: A Variable Neighborhood Search Approach</title>
-      <link>https://jesussanchezoro.github.io/publication/lozano-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/lozano-2020-a/</guid>
       <description></description>
     </item>
     
