@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Rodriguez-Tello | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/e.-rodriguez-tello/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/e.-rodriguez-tello/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Rodriguez-Tello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>E. Rodriguez-Tello</title>
+      <link>https://jesussanchezoro.github.io/author/e.-rodriguez-tello/</link>
+    </image>
+    
+    <item>
+      <title>Two-dimensional bandwidth minimization problem: Exact and heuristic approaches</title>
+      <link>https://jesussanchezoro.github.io/publication/rodriguez-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/rodriguez-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
