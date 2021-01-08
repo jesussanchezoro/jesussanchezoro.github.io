@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/j.-sanchez-oro/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/j.-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Sánchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 08:55:59 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 09:02:51 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>J. Sánchez-Oro</title>
@@ -15,8 +15,16 @@
     <item>
       <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
       <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Fri, 08 Jan 2021 08:55:59 +0000</pubDate>
+      <pubDate>Fri, 08 Jan 2021 09:02:51 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-objective parallel variable neighborhood search for the bi-objective obnoxious p-median problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2021-a/</guid>
       <description></description>
     </item>
     
