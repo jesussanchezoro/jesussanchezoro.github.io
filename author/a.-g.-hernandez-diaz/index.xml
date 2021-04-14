@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. G. Hernández-Díaz | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-g.-hernandez-diaz/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-g.-hernandez-diaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. G. Hernández-Díaz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. G. Hernández-Díaz</title>
+      <link>https://jesussanchezoro.github.io/author/a.-g.-hernandez-diaz/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid Strategic Oscillation with Path Relinking Algorithm for the Multiobjective k-Balanced Center Location Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2021-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2021-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
