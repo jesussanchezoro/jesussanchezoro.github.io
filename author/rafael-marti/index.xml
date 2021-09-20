@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rafael Marti | Jesús Sánchez-Oro</title>
+    <title>Rafael Martí | Jesús Sánchez-Oro</title>
     <link>https://jesussanchezoro.github.io/author/rafael-marti/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/rafael-marti/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rafael Marti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <description>Rafael Martí</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
-      <title>Rafael Marti</title>
+      <title>Rafael Martí</title>
       <link>https://jesussanchezoro.github.io/author/rafael-marti/</link>
     </image>
     
     <item>
-      <title>Improving the performance of embedded systems with variable neighborhood search</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchez-2017-improving/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchez-2017-improving/</guid>
+      <title>A review on discrete diversity and dispersion maximization from an OR perspective</title>
+      <link>https://jesussanchezoro.github.io/publication/marti-2021-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/marti-2021-b/</guid>
       <description></description>
     </item>
     

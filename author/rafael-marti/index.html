@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="&lt;a href=&#34;https://gestion2.urjc.es/pdi/ver/jesus.sanchezoro&#34;&gt;Assistant Professor&lt;/a&gt;">
 
   
   <link rel="alternate" hreflang="en-us" href="https://jesussanchezoro.github.io/author/rafael-marti/">
@@ -238,6 +238,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79267707-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-79267707-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -271,11 +309,11 @@
   
   <meta property="og:site_name" content="Jesús Sánchez-Oro">
   <meta property="og:url" content="https://jesussanchezoro.github.io/author/rafael-marti/">
-  <meta property="og:title" content="Rafael Marti | Jesús Sánchez-Oro">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://jesussanchezoro.github.io/media/jesussanchezoro.png">
+  <meta property="og:title" content="Rafael Martí | Jesús Sánchez-Oro">
+  <meta property="og:description" content="&lt;a href=&#34;https://gestion2.urjc.es/pdi/ver/jesus.sanchezoro&#34;&gt;Assistant Professor&lt;/a&gt;"><meta property="og:image" content="https://jesussanchezoro.github.io/media/jesussanchezoro.png">
   <meta property="twitter:image" content="https://jesussanchezoro.github.io/media/jesussanchezoro.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2017-01-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
   
 
   
@@ -292,7 +330,7 @@
 
 
 
-  <title>Rafael Marti | Jesús Sánchez-Oro</title>
+  <title>Rafael Martí | Jesús Sánchez-Oro</title>
 
 </head>
 
@@ -473,17 +511,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/project"><span>Projects</span></a>
         </li>
 
         
@@ -572,7 +603,7 @@
 
 
 <div class="universal-wrapper pt-3">
-  <h1>Rafael Marti</h1>
+  <h1>Rafael Martí</h1>
 </div>
 
 
@@ -589,7 +620,7 @@
       <ul>
         
         <li>
-          <a href="/publication/sanchez-2017-improving/">Improving the performance of embedded systems with variable neighborhood search</a>
+          <a href="/publication/marti-2021-b/">A review on discrete diversity and dispersion maximization from an OR perspective</a>
         </li>
         
       </ul>

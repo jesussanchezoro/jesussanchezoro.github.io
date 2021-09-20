@@ -5,12 +5,20 @@
     <link>https://jesussanchezoro.github.io/author/sergio-perez-pelo/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/sergio-perez-pelo/index.xml" rel="self" type="application/rss+xml" />
     <description>Sergio Pérez-Peló</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Sergio Pérez-Peló</title>
       <link>https://jesussanchezoro.github.io/author/sergio-perez-pelo/</link>
     </image>
+    
+    <item>
+      <title>A review on discrete diversity and dispersion maximization from an OR perspective</title>
+      <link>https://jesussanchezoro.github.io/publication/marti-2021-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/marti-2021-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Finding weaknesses in networks using Greedy Randomized Adaptive Search Procedure and Path Relinking</title>
