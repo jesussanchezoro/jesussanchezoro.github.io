@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="&lt;a href=&#34;https://gestion2.urjc.es/pdi/ver/jesus.sanchezoro&#34;&gt;Assistant Professor&lt;/a&gt;">
 
   
   <link rel="alternate" hreflang="en-us" href="https://jesussanchezoro.github.io/author/j-sanchez-oro/">
@@ -238,6 +238,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79267707-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-79267707-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -271,11 +309,11 @@
   
   <meta property="og:site_name" content="Jesús Sánchez-Oro">
   <meta property="og:url" content="https://jesussanchezoro.github.io/author/j-sanchez-oro/">
-  <meta property="og:title" content="J Sánchez-Oro | Jesús Sánchez-Oro">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://jesussanchezoro.github.io/media/jesussanchezoro.png">
+  <meta property="og:title" content="J Sanchez-Oro | Jesús Sánchez-Oro">
+  <meta property="og:description" content="&lt;a href=&#34;https://gestion2.urjc.es/pdi/ver/jesus.sanchezoro&#34;&gt;Assistant Professor&lt;/a&gt;"><meta property="og:image" content="https://jesussanchezoro.github.io/media/jesussanchezoro.png">
   <meta property="twitter:image" content="https://jesussanchezoro.github.io/media/jesussanchezoro.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2016-01-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
   
 
   
@@ -292,7 +330,7 @@
 
 
 
-  <title>J Sánchez-Oro | Jesús Sánchez-Oro</title>
+  <title>J Sanchez-Oro | Jesús Sánchez-Oro</title>
 
 </head>
 
@@ -473,17 +511,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/project"><span>Projects</span></a>
         </li>
 
         
@@ -572,7 +603,7 @@
 
 
 <div class="universal-wrapper pt-3">
-  <h1>J Sánchez-Oro</h1>
+  <h1>J Sanchez-Oro</h1>
 </div>
 
 
@@ -589,11 +620,7 @@
       <ul>
         
         <li>
-          <a href="/publication/sanchez-2016-robust/">Robust total energy demand estimation with a hybrid Variable Neighborhood Search--Extreme Learning Machine algorithm</a>
-        </li>
-        
-        <li>
-          <a href="/publication/fernandez-2013-calculo/">Cálculo de separadores de grafos utilizando búsqueda de vecindad variable reducida</a>
+          <a href="/publication/martinsantamaria-2022-a/">Strategic oscillation for the balanced minimum sum-of-squares clustering problem</a>
         </li>
         
       </ul>

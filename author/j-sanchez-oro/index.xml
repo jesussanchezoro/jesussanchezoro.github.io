@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J Sánchez-Oro | Jesús Sánchez-Oro</title>
+    <title>J Sanchez-Oro | Jesús Sánchez-Oro</title>
     <link>https://jesussanchezoro.github.io/author/j-sanchez-oro/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/j-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
-    <description>J Sánchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <description>J Sanchez-Oro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
-      <title>J Sánchez-Oro</title>
+      <title>J Sanchez-Oro</title>
       <link>https://jesussanchezoro.github.io/author/j-sanchez-oro/</link>
     </image>
     
     <item>
-      <title>Robust total energy demand estimation with a hybrid Variable Neighborhood Search--Extreme Learning Machine algorithm</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchez-2016-robust/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchez-2016-robust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cálculo de separadores de grafos utilizando búsqueda de vecindad variable reducida</title>
-      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-calculo/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-calculo/</guid>
+      <title>Strategic oscillation for the balanced minimum sum-of-squares clustering problem</title>
+      <link>https://jesussanchezoro.github.io/publication/martinsantamaria-2022-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/martinsantamaria-2022-a/</guid>
       <description></description>
     </item>
     
