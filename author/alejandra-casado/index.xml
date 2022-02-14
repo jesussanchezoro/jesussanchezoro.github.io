@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandra Casado | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/alejandra-casado/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/alejandra-casado/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandra Casado</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>Alejandra Casado</title>
+      <link>https://jesussanchezoro.github.io/author/alejandra-casado/</link>
+    </image>
+    
+    <item>
+      <title>A GRASP algorithm with Tabu Search improvement for solving the maximum intersection of k-subsets problem</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2022-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
