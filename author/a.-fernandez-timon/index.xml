@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Fernández Timón | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-fernandez-timon/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-fernandez-timon/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Fernández Timón</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. Fernández Timón</title>
+      <link>https://jesussanchezoro.github.io/author/a.-fernandez-timon/</link>
+    </image>
+    
+    <item>
+      <title>Alpha-SpecTrim: A new application designed for reproducing alpha-particle spectra</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandeztimon-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandeztimon-2022-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
