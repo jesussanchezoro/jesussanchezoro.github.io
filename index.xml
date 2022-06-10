@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/</link>
       <atom:link href="https://jesussanchezoro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jesús Sánchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 08:51:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 10:32:20 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Jesús Sánchez-Oro</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
       <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Thu, 21 Apr 2022 08:51:49 +0000</pubDate>
+      <pubDate>Fri, 10 Jun 2022 10:32:20 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
       <description></description>
     </item>
@@ -41,6 +41,14 @@
       <link>https://jesussanchezoro.github.io/publication/sanchezoro-2022-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Volcanic and Tectonic Sandbox Analogue Models using the Kinect v2 Sensor</title>
+      <link>https://jesussanchezoro.github.io/publication/rincon-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/rincon-2022-a/</guid>
       <description></description>
     </item>
     
