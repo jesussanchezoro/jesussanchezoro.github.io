@@ -5,20 +5,12 @@
     <link>https://jesussanchezoro.github.io/author/marti/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/marti/index.xml" rel="self" type="application/rss+xml" />
     <description> Martí</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title> Martí</title>
       <link>https://jesussanchezoro.github.io/author/marti/</link>
     </image>
-    
-    <item>
-      <title>Iterated greedy with variable neighborhood search for a multiobjective waste collection problem</title>
-      <link>https://jesussanchezoro.github.io/publication/delgado-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/delgado-2020-a/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Improving the performance of embedded systems with variable neighborhood search</title>

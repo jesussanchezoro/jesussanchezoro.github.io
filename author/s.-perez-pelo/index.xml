@@ -5,12 +5,28 @@
     <link>https://jesussanchezoro.github.io/author/s.-perez-pelo/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/s.-perez-pelo/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Pérez-Peló</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>S. Pérez-Peló</title>
       <link>https://jesussanchezoro.github.io/author/s.-perez-pelo/</link>
     </image>
+    
+    <item>
+      <title>DIETHA</title>
+      <link>https://jesussanchezoro.github.io/project/dietha/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GRASP algorithm with Tabu Search improvement for solving the maximum intersection of k-subsets problem</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2022-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A fast variable neighborhood search approach for multi-objective community detection</title>
@@ -21,7 +37,23 @@
     </item>
     
     <item>
-      <title>RATED POWER 2</title>
+      <title>A review on discrete diversity and dispersion maximization from an OR perspective</title>
+      <link>https://jesussanchezoro.github.io/publication/marti-2022-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/marti-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic oscillation for the balanced minimum sum-of-squares clustering problem</title>
+      <link>https://jesussanchezoro.github.io/publication/martinsantamaria-2022-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/martinsantamaria-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RATED POWER (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/ratedpower2art83/</link>
       <pubDate>Wed, 09 Sep 2020 17:45:46 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/ratedpower2art83/</guid>
@@ -29,7 +61,7 @@
     </item>
     
     <item>
-      <title>RATED POWER</title>
+      <title>RATED POWER (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/ratedpowerart83/</link>
       <pubDate>Wed, 09 Sep 2020 17:44:28 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/ratedpowerart83/</guid>
@@ -37,7 +69,7 @@
     </item>
     
     <item>
-      <title>QOSLT</title>
+      <title>QOSLT (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/qositart83/</link>
       <pubDate>Wed, 09 Sep 2020 17:37:33 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/qositart83/</guid>
@@ -45,10 +77,18 @@
     </item>
     
     <item>
-      <title>DIETHA</title>
-      <link>https://jesussanchezoro.github.io/project/dietha/</link>
-      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
-      <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
+      <title>Finding weaknesses in networks using Greedy Randomized Adaptive Search Procedure and Path Relinking</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Parallel Iterated Greedy for Solving the p-Center and p-Dispersion Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-c/</guid>
       <description></description>
     </item>
     

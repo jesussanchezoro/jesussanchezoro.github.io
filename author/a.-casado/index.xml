@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Casado | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-casado/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-casado/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Casado</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. Casado</title>
+      <link>https://jesussanchezoro.github.io/author/a.-casado/</link>
+    </image>
+    
+    <item>
+      <title>A GRASP algorithm with Tabu Search improvement for solving the maximum intersection of k-subsets problem</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood search approach with intensified shake for monitor placement</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2022-b/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2022-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective GRASP for Maximizing Diversity</title>
+      <link>https://jesussanchezoro.github.io/publication/casasmartinez-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casasmartinez-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un enfoque multi-objetivo para el problema de la máxima diversidad</title>
+      <link>https://jesussanchezoro.github.io/publication/casasmartinez-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casasmartinez-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

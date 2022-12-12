@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/e.g.-pardo/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/e.g.-pardo/index.xml" rel="self" type="application/rss+xml" />
     <description>E.G. Pardo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 17:31:38 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>E.G. Pardo</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>CS-SCOOP</title>
+      <link>https://jesussanchezoro.github.io/project/scoop/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/scoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYNAMON</title>
+      <link>https://jesussanchezoro.github.io/project/cynamon/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/cynamon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DIETHA</title>
       <link>https://jesussanchezoro.github.io/project/dietha/</link>
       <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un enfoque multi-objetivo para el problema de la máxima diversidad</title>
+      <link>https://jesussanchezoro.github.io/publication/casasmartinez-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casasmartinez-2021-a/</guid>
       <description></description>
     </item>
     

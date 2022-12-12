@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/</link>
       <atom:link href="https://jesussanchezoro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jesús Sánchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 09:09:12 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Jesús Sánchez-Oro</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
-      <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Mon, 12 Dec 2022 09:09:12 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
+      <title>CS-SCOOP</title>
+      <link>https://jesussanchezoro.github.io/project/scoop/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/scoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYNAMON</title>
+      <link>https://jesussanchezoro.github.io/project/cynamon/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/cynamon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMIGO</title>
+      <link>https://jesussanchezoro.github.io/project/emigo/</link>
+      <pubDate>Wed, 09 Sep 2020 17:42:46 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/emigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIETHA</title>
+      <link>https://jesussanchezoro.github.io/project/dietha/</link>
+      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
+      <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
       <description></description>
     </item>
     
@@ -85,6 +109,14 @@
     </item>
     
     <item>
+      <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
+      <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A quick GRASP-based method for influence maximization in social networks</title>
       <link>https://jesussanchezoro.github.io/publication/lozanoosorio-2021-a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -149,7 +181,7 @@
     </item>
     
     <item>
-      <title>RATED POWER 3</title>
+      <title>RATED POWER (ART. 83)</title>
       <link>https://jesussanchezoro.github.io/project/ratedpower3art83/</link>
       <pubDate>Wed, 09 Sep 2020 17:47:23 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/ratedpower3art83/</guid>
@@ -157,7 +189,7 @@
     </item>
     
     <item>
-      <title>RATED POWER 2</title>
+      <title>RATED POWER (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/ratedpower2art83/</link>
       <pubDate>Wed, 09 Sep 2020 17:45:46 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/ratedpower2art83/</guid>
@@ -165,18 +197,10 @@
     </item>
     
     <item>
-      <title>RATED POWER</title>
+      <title>RATED POWER (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/ratedpowerart83/</link>
       <pubDate>Wed, 09 Sep 2020 17:44:28 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/ratedpowerart83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EMIGO</title>
-      <link>https://jesussanchezoro.github.io/project/emigo/</link>
-      <pubDate>Wed, 09 Sep 2020 17:42:46 +0200</pubDate>
-      <guid>https://jesussanchezoro.github.io/project/emigo/</guid>
       <description></description>
     </item>
     
@@ -189,7 +213,7 @@
     </item>
     
     <item>
-      <title>QOSLT</title>
+      <title>QOSLT (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/qositart83/</link>
       <pubDate>Wed, 09 Sep 2020 17:37:33 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/qositart83/</guid>
@@ -197,18 +221,10 @@
     </item>
     
     <item>
-      <title>GFK</title>
+      <title>GFK (Art. 83)</title>
       <link>https://jesussanchezoro.github.io/project/gfkart83/</link>
       <pubDate>Wed, 09 Sep 2020 17:34:43 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/gfkart83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DIETHA</title>
-      <link>https://jesussanchezoro.github.io/project/dietha/</link>
-      <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
-      <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
       <description></description>
     </item>
     

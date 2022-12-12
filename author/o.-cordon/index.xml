@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Cordón | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/o.-cordon/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/o.-cordon/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Cordón</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>O. Cordón</title>
+      <link>https://jesussanchezoro.github.io/author/o.-cordon/</link>
+    </image>
+    
+    <item>
+      <title>A quick GRASP-based method for influence maximization in social networks</title>
+      <link>https://jesussanchezoro.github.io/publication/lozanoosorio-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lozanoosorio-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

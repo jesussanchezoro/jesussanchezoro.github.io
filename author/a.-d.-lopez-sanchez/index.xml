@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/a.-d.-lopez-sanchez/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/a.-d.-lopez-sanchez/index.xml" rel="self" type="application/rss+xml" />
     <description>A. D. López-Sánchez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 09:09:12 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>A. D. López-Sánchez</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
-      <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
-      <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Mon, 12 Dec 2022 09:09:12 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GRASP with strategic oscillation for the α-neighbor p-center problem</title>
-      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2022-a/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2022-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Hybrid Strategic Oscillation with Path Relinking Algorithm for the Multiobjective k-Balanced Center Location Problem</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezoro-2021-b/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
+      <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
       <description></description>
     </item>
     

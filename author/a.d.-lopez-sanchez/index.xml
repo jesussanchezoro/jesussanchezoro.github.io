@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/a.d.-lopez-sanchez/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/a.d.-lopez-sanchez/index.xml" rel="self" type="application/rss+xml" />
     <description>A.D. López-Sánchez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>A.D. López-Sánchez</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>GRASP with strategic oscillation for the α-neighbor p-center problem</title>
+      <link>https://jesussanchezoro.github.io/publication/sanchezoro-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A multi-objective parallel variable neighborhood search for the bi-objective obnoxious p-median problem</title>
       <link>https://jesussanchezoro.github.io/publication/sanchezoro-2021-a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/sanchezoro-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Parallel Iterated Greedy for Solving the p-Center and p-Dispersion Problem</title>
+      <link>https://jesussanchezoro.github.io/publication/perezpelo-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/perezpelo-2019-c/</guid>
       <description></description>
     </item>
     
