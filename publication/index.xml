@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/publication/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 10:32:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 09:09:12 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A New Scatter Search Design for Multiobjective Combinatorial Optimization with an Application to Facility Location</title>
       <link>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</link>
-      <pubDate>Fri, 10 Jun 2022 10:32:20 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 09:09:12 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/lopezsanchez-2020-b/</guid>
       <description></description>
     </item>
@@ -49,6 +49,14 @@
       <link>https://jesussanchezoro.github.io/publication/rincon-2022-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/rincon-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood search approach with intensified shake for monitor placement</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2022-b/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2022-b/</guid>
       <description></description>
     </item>
     
@@ -445,18 +453,18 @@
     </item>
     
     <item>
-      <title>Computing graph separators with variable neighborhood search</title>
-      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cálculo de separadores de grafos utilizando búsqueda de vecindad variable reducida</title>
       <link>https://jesussanchezoro.github.io/publication/fernandez-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing graph separators with variable neighborhood search</title>
+      <link>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/fernandez-2013-b/</guid>
       <description></description>
     </item>
     

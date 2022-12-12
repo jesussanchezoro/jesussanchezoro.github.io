@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Graph drawing&#34; | Jesús Sánchez-Oro</title>
+    <title>Graph drawing | Jesús Sánchez-Oro</title>
     <link>https://jesussanchezoro.github.io/tag/graph-drawing/</link>
       <atom:link href="https://jesussanchezoro.github.io/tag/graph-drawing/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Graph drawing&#34;</description>
+    <description>Graph drawing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
-      <title>&#34;Graph drawing&#34;</title>
+      <title>Graph drawing</title>
       <link>https://jesussanchezoro.github.io/tag/graph-drawing/</link>
     </image>
     
