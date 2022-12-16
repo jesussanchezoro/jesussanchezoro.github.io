@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. y Cordón, O. Duarte | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/a.-y-cordon-o.-duarte/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/a.-y-cordon-o.-duarte/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. y Cordón, O. Duarte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>A. y Cordón, O. Duarte</title>
+      <link>https://jesussanchezoro.github.io/author/a.-y-cordon-o.-duarte/</link>
+    </image>
+    
+    <item>
+      <title>New metaheuristic algorithms for the analysis of the user influence in social networks</title>
+      <link>https://jesussanchezoro.github.io/publication/lozano-2020-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lozano-2020-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Bermudo | Jesús Sánchez-Oro</title>
+    <link>https://jesussanchezoro.github.io/author/s.-bermudo/</link>
+      <atom:link href="https://jesussanchezoro.github.io/author/s.-bermudo/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Bermudo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
+      <title>S. Bermudo</title>
+      <link>https://jesussanchezoro.github.io/author/s.-bermudo/</link>
+    </image>
+    
+    <item>
+      <title>A fast metaheuristic for finding the minimum dominating set in graphs</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2022-c/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2022-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
