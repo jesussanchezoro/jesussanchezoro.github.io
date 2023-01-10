@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/</link>
       <atom:link href="https://jesussanchezoro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jesús Sánchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Jesús Sánchez-Oro</title>
@@ -41,6 +41,14 @@
       <link>https://jesussanchezoro.github.io/project/dietha/</link>
       <pubDate>Wed, 09 Sep 2020 17:31:38 +0200</pubDate>
       <guid>https://jesussanchezoro.github.io/project/dietha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An iterated greedy algorithm for finding the minimum dominating set in graphs</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2023-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2023-a/</guid>
       <description></description>
     </item>
     
