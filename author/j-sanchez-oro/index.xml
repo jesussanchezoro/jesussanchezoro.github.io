@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J Sanchez-Oro | Jesús Sánchez-Oro</title>
+    <title>J Sánchez-Oro | Jesús Sánchez-Oro</title>
     <link>https://jesussanchezoro.github.io/author/j-sanchez-oro/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/j-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
-    <description>J Sanchez-Oro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <description>J Sánchez-Oro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
-      <title>J Sanchez-Oro</title>
+      <title>J Sánchez-Oro</title>
       <link>https://jesussanchezoro.github.io/author/j-sanchez-oro/</link>
     </image>
     
     <item>
-      <title>Monitoring Volcanic and Tectonic Sandbox Analogue Models using the Kinect v2 Sensor</title>
-      <link>https://jesussanchezoro.github.io/publication/rincon-2022-a/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/rincon-2022-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strategic oscillation for the balanced minimum sum-of-squares clustering problem</title>
-      <link>https://jesussanchezoro.github.io/publication/martinsantamaria-2022-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/martinsantamaria-2022-a/</guid>
+      <title>The multiobjective traveling salesman--repairman problem with profits: design and implementation of a variable neighborhood descent algorithm for a real scenario</title>
+      <link>https://jesussanchezoro.github.io/publication/morante-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/morante-2023/</guid>
       <description></description>
     </item>
     
