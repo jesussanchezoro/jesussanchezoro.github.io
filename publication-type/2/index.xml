@@ -5,12 +5,20 @@
     <link>https://jesussanchezoro.github.io/publication-type/2/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>2</title>
       <link>https://jesussanchezoro.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A variable neighborhood search approach for the adaptive multi round influence maximization problem</title>
+      <link>https://jesussanchezoro.github.io/publication/lozano-2024-b/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/lozano-2024-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A reactive path relinking algorithm for solving the bi-objective p-Median and p-Dispersion problem</title>
