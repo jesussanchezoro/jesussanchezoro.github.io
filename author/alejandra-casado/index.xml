@@ -5,7 +5,7 @@
     <link>https://jesussanchezoro.github.io/author/alejandra-casado/</link>
       <atom:link href="https://jesussanchezoro.github.io/author/alejandra-casado/index.xml" rel="self" type="application/rss+xml" />
     <description>Alejandra Casado</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Alejandra Casado</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>A GRASP algorithm with Tabu Search improvement for solving the maximum intersection of k-subsets problem</title>
-      <link>https://jesussanchezoro.github.io/publication/casado-2022-a/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/casado-2022-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variable neighborhood search approach with intensified shake for monitor placement</title>
-      <link>https://jesussanchezoro.github.io/publication/casado-2022-b/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jesussanchezoro.github.io/publication/casado-2022-b/</guid>
+      <title>Heuristics for the weighted total domination problem</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2025-a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2025-a/</guid>
       <description></description>
     </item>
     

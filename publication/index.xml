@@ -5,12 +5,20 @@
     <link>https://jesussanchezoro.github.io/publication/</link>
       <atom:link href="https://jesussanchezoro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jesussanchezoro.github.io/media/jesussanchezoro.png</url>
       <title>Publications</title>
       <link>https://jesussanchezoro.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Heuristics for the weighted total domination problem</title>
+      <link>https://jesussanchezoro.github.io/publication/casado-2025-a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jesussanchezoro.github.io/publication/casado-2025-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A variable neighborhood search approach for the adaptive multi round influence maximization problem</title>
